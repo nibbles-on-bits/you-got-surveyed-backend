@@ -17,7 +17,6 @@ public class Survey {
     private String fromNum;
     private String toNum;
 
-    //@DBRef
     public List<SurveyQuestion> surveyQuestionList;
 
     public String getStartMessage() {
