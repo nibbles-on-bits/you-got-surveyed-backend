@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="26caeacd-03fb-4e8a-9134-14b035bdb7a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nibblesonbits/yougotsurveyed/Survey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nibblesonbits/yougotsurveyed/Survey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nibblesonbits/yougotsurveyed/YougotsurveyedApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nibblesonbits/yougotsurveyed/YougotsurveyedApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nibblesonbits/yougotsurveyed/Survey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nibblesonbits/yougotsurveyed/Survey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nibblesonbits/yougotsurveyed/YougotsurveyedApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nibblesonbits/yougotsurveyed/YougotsurveyedApplication.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
