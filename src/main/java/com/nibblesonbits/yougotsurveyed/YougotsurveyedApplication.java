@@ -8,10 +8,11 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 @SpringBootApplication
 public class YougotsurveyedApplication {
 	public static void main(String[] args) {
-		final ApplicationContext ctx = SpringApplication.run(YougotsurveyedApplication.class, args);
+		SpringApplication.run(YougotsurveyedApplication.class, args);
+		/*final ApplicationContext ctx = SpringApplication.run(YougotsurveyedApplication.class, args);
 		final AnnotationConfigApplicationContext annotationConfigApplicationContext = new AnnotationConfigApplicationContext();
     	annotationConfigApplicationContext.register(CORSConfig.class);
-    	annotationConfigApplicationContext.refresh();
+    	annotationConfigApplicationContext.refresh();*/
 	}
 
 }
